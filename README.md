@@ -65,20 +65,12 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="65" height="65" />
-        <br>Prettier
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
@@ -87,27 +79,43 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
         <br>Next.js
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
         <br>Express
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" />
         <br>PostgreSQL
       </td>
       <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="48" height="48" />
-        <br>Tailwind
+        <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="48" height="48" />
+        <br>Nginx
       </td>
       <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
-        <br>Firebase
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+        <br>Tailwind
       </td>
     </tr>
   </table>
+
+  <h3 align="center">🚀 Full Stack Developer 🚀</h3>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/MERN-Stack-teal?style=for-the-badge&logo=mongodb" alt="MERN Stack" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/CI/CD-Pipeline-orange?style=for-the-badge&logo=github-actions" alt="CI/CD" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Cloud-Services-blue?style=for-the-badge&logo=amazon-aws" alt="Cloud Services" />
+  </div>
+  
+  <br />
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abdulbasit2733&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  </p>
   
   ![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 </div>
